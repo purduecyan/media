@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-21T00:18:00.801Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:128.0) Gecko/20100101 Firefox/128.0" etag="ghgaj5_JNf4VHVysp6cD" version="24.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-21T03:15:10.120Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:128.0) Gecko/20100101 Firefox/128.0" etag="hk7j7DKiuLdU1OWeCU4X" version="24.7.2" type="github">
   <diagram name="Page-1" id="4S7BL0tD39plUBPgxchu">
-    <mxGraphModel dx="2390" dy="1328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -492,7 +492,7 @@
         <mxCell id="XnJuwxs5M1YiM-T7zDQR-120" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="XnJuwxs5M1YiM-T7zDQR-118">
           <mxGeometry x="5" y="5" width="41.67" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XnJuwxs5M1YiM-T7zDQR-121" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Cilium&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Agent&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XnJuwxs5M1YiM-T7zDQR-118">
+        <mxCell id="XnJuwxs5M1YiM-T7zDQR-121" value="&lt;b&gt;Cilium Operator&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XnJuwxs5M1YiM-T7zDQR-118">
           <mxGeometry x="50.000000000000114" y="10" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XnJuwxs5M1YiM-T7zDQR-122" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -504,7 +504,7 @@
         <mxCell id="XnJuwxs5M1YiM-T7zDQR-124" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="XnJuwxs5M1YiM-T7zDQR-122">
           <mxGeometry x="5" y="5" width="41.67" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XnJuwxs5M1YiM-T7zDQR-125" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Hubble&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;UI&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XnJuwxs5M1YiM-T7zDQR-122">
+        <mxCell id="XnJuwxs5M1YiM-T7zDQR-125" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Hubble Relay&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XnJuwxs5M1YiM-T7zDQR-122">
           <mxGeometry x="50.000000000000114" y="10" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XnJuwxs5M1YiM-T7zDQR-126" value="" style="group" vertex="1" connectable="0" parent="1">
